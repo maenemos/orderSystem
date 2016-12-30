@@ -1,0 +1,15 @@
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Affarssystemet.exe.config
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Affarssystemet.exe
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Affarssystemet.pdb
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\obj\Debug\Affarssystemet.csprojResolveAssemblyReference.cache
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\obj\Debug\Affarssystemet.exe
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\obj\Debug\Affarssystemet.pdb
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet - kopia\bin\Debug\Affarssystemet.exe.config
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet - kopia\obj\Debug\Affarssystemet.exe
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\Affarssystemet - kopia\obj\Debug\Affarssystemet.pdb
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\orderSystem\bin\Debug\Affarssystemet.exe.config
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\orderSystem\obj\Debug\Affarssystemet.exe
+C:\Users\GigaRent\Desktop\Lernia C#\Projects\order\orderSystem\obj\Debug\Affarssystemet.pdb
